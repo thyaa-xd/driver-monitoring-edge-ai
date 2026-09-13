@@ -1,2 +1,4 @@
-# driver-monitoring-edge-ai
-Edge AI-based road safety monitoring system for real-time driver distraction detection and vehicle speed monitoring using YOLO and NVIDIA Jetson Nano.
+# Intelligent Driver Distraction & Vehicle Speed Monitoring System
+Real-time Edge AI system developed using NVIDIA Jetson Nano, Python, and YOLO to detect driver mobile-phone distraction and monitor vehicle speed.
+
+Tech Stack: Python • YOLO • NVIDIA Jetson Nano • Computer Vision • OBD-II • Embedded Systems
